@@ -115,3 +115,4 @@ simple:json-routes
 
 percolate:synced-cron
 d3js:d3
+clinical:hl7-resource-communication
