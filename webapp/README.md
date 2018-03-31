@@ -17,4 +17,3 @@ To lint:
 meteor npm run lint
 ```
 
-
